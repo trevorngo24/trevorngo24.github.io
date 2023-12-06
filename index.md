@@ -4,7 +4,7 @@ This is my home page! My name is Trevor Ngo and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/trevorngo24.
+My GitHub page is [http://github.com/trevorngo24.](http://github.com/trevorngo24)
 
 ### CPSC 120
 
@@ -19,6 +19,6 @@ My GitHub page is http://github.com/trevorngo24.
     [Blackjack Game](https://github.com/cpsc-fall-2023/cpsc-120-lab-06-trevor-vanessa.git) 
  
 * Philosopher Schedule (Lab 9 part-2)
- 
+
     -Lab 9 part 2 was interesting to me because we were comparing two strings in a intricate way. They were checking to see if they had the same letter “e” in the same spot. After running the make test, it was enjoyable seeing how each line of code played a significant role in how it affected the outcome.
     [Philosopher Schedule](https://github.com/cpsc-fall-2023/cpsc-120-lab-09-trevor-and-cassie.git) 
